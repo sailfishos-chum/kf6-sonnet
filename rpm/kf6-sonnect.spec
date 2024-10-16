@@ -1,7 +1,7 @@
 %global  kf_version 6.6.0
 
 Name:		kf6-sonnet
-Version:	6.6.0
+Version: 6.6.0
 Release:	0%{?dist}
 Summary:	KDE Frameworks 6 Tier 1 solution for spell checking
 License:	BSD-3-Clause AND CC0-1.0 AND LGPL-2.0-or-later AND LGPL-2.1-or-later
